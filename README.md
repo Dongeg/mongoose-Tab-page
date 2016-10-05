@@ -37,7 +37,7 @@ module.exports = {
 
 ```
 调用
-```
+```js
 var dbHelper = require('../db/dbHelper');
 
 router.get('/', function(req, res, next){
